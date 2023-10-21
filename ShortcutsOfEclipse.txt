@@ -1,0 +1,6 @@
+
+1. want to see the all shortcuts -> ctrl+shift+L
+2. single line comment -> ctrl+/
+3. to add a block comment -> ctrl+shift+/
+4. to remove a block comment -> ctrl+shift+\
+5. to select all occurences of a word -> alt+shift+R 
